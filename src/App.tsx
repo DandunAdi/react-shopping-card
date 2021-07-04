@@ -10,7 +10,6 @@ import Badge from "@material-ui/core/Badge";
 import Cart from "./Cart/Cart";
 // Styles 
 import { Wrapper, StyledButton } from "./App.styles";
-import { number } from "yargs";
 // Types
 export type CartItemType = {
   id: number;
